@@ -1,0 +1,8 @@
+{
+  "name": "Remix Kisan Vani",
+  "description": "Kisan Vani 2.0 - Direct-to-Consumer (D2C) farm marketplace, AI multi-stop logistics routing, demand forecasting, AGMARKNET live mandi prices, and institutional lot bidding with escrow security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Center stalk -->
+    <path
+        android:pathData="M54,80 C54,58 54,34 54,24"
+        android:strokeWidth="3.5"
+        android:strokeColor="#FFC107"
+        android:strokeLineCap="round" />
+    <!-- Wheat grains left -->
+    <path
+        android:pathData="M54,30 C48,26 44,28 44,34 C44,40 54,42 54,42"
+        android:fillColor="#FFD54F" />
+    <path
+        android:pathData="M54,42 C46,38 42,42 42,48 C42,54 54,56 54,56"
+        android:fillColor="#FFCA28" />
+    <path
+        android:pathData="M54,56 C44,52 40,58 40,64 C40,70 54,70 54,70"
+        android:fillColor="#FFB300" />
+    <!-- Wheat grains right -->
+    <path
+        android:pathData="M54,30 C60,26 64,28 64,34 C64,40 54,42 54,42"
+        android:fillColor="#FFD54F" />
+    <path
+        android:pathData="M54,42 C62,38 66,42 66,48 C66,54 54,56 54,56"
+        android:fillColor="#FFCA28" />
+    <path
+        android:pathData="M54,56 C64,52 68,58 68,64 C68,70 54,70 54,70"
+        android:fillColor="#FFB300" />
+    <!-- Top grain head -->
+    <path
+        android:pathData="M54,24 C50,18 54,14 54,14 C54,14 58,18 54,24"
+        android:fillColor="#FFE082" />
+    <!-- Soundwaves / Vani Voice Broadcast (Left & Right) -->
+    <path
+        android:pathData="M34,44 C30,50 30,58 34,64"
+        android:strokeWidth="2.5"
+        android:strokeColor="#81C784"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M26,38 C20,48 20,60 26,70"
+        android:strokeWidth="2.5"
+        android:strokeColor="#A5D6A7"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M74,44 C78,50 78,58 74,64"
+        android:strokeWidth="2.5"
+        android:strokeColor="#81C784"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M82,38 C88,48 88,60 82,70"
+        android:strokeWidth="2.5"
+        android:strokeColor="#A5D6A7"
+        android:strokeLineCap="round" />
+</vector>
